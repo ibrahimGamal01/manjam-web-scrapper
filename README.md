@@ -7,9 +7,9 @@ Python 3
 requests library
 BeautifulSoup library
 # Installation
-1- Clone this repository
-2- Install the required libraries: pip install requests and pip install beautifulsoup4
-3- Run the script: python main.py
+1. Clone this repository
+2. Install the required libraries: pip install requests and pip install beautifulsoup4
+3. Run the script: python main.py
 # Usage
 The script will output the first three paragraphs found on the webpage containing the desired keywords. If there are no such paragraphs, the output will be empty.
 
