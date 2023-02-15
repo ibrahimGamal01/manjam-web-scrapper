@@ -1,6 +1,6 @@
 # manjam-web-scrapper
 
-This Python script scrapes the U.S. Embassy in Egypt's webpage for exchange opportunities, looking for paragraphs containing keywords such as "internship," "event," "scholarship," "exchange program," and "scholarships." The script retrieves the HTML from the webpage and uses the BeautifulSoup library to parse and extract the desired information.
+This Python script scrapes the given link for opportunities (You can use sublist3r for more results), looking for paragraphs containing keywords such as "internship," "event," "scholarship," "exchange program," and "scholarships." The script retrieves the HTML from the webpage and uses the BeautifulSoup library to parse and extract the desired information.
 
 # Requirements
 Python 3
